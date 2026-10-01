@@ -1,5 +1,9 @@
 # Knust
 
+> **Umgezogen:** Knust liegt jetzt im Repo [Kante](https://github.com/shrippen/Kante) unter `kimai/knust/`
+> (Historie übernommen, Releases mit Tag `knust-v*` als `KnustBundle-<version>.zip`). Seite: <https://shrippen.github.io/Kante/knust/>.
+> Dieses Repo ist archiviert.
+
 shrippen-Theme für Kimai (`shrippen/kimai-knust-bundle`). Knust ist das Endstück vom Brot: abgeschnittenes Eck, warme Kruste.
 
 Kimai-2.67-Plugin: shrippen Design Default (Gruvbox dunkel, „Leinen“ hell) über Tabler. Nur CSS-Variablen und wenige Komponentenregeln, Kimais Markup bleibt unverändert. Plugins, die `var(--tblr-*)` nutzen (kpu-Kit), übernehmen das Theme automatisch.
